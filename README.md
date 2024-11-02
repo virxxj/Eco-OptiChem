@@ -1,5 +1,3 @@
-Eco-OptiChem: AI-Based Emissions and Waste Optimization for Chemical Engineering
-
 Eco-OptiChem is an AI-driven prototype platform designed for real-time emissions monitoring and process optimization in chemical engineering. By analyzing key process parameters—such as temperature, pressure, flow rate, and energy usage—Eco-OptiChem predicts emissions levels and proactively suggests optimization strategies to minimize environmental impact. This project bridges the gap between computing and chemical engineering by applying machine learning to address sustainability challenges in industrial processes.
 
 Key Features
